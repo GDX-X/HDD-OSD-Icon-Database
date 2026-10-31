@@ -1,2 +1,3 @@
 # HDD-OSD-Icon-Database
-HDD-OSD-Icon-Database from ps2iodb
+
+Most of the PS2 game icon cards come from https://ps2iodb.com/
